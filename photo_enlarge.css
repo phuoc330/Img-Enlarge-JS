@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+.photo_enlarge_box {
+	margin-top: 5px;
+	margin-left: 10px;
+	padding-bottom: 10px;
+	text-align:left;
+	float:right;
+}
+
+.photo_enlarge_box p{
+	color: #666666;
+	font-size: 80%;
+	margin: 0px;
+	padding-top: 3px;
+}
+
